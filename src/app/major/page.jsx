@@ -1,4 +1,4 @@
-export default function Major() {
+export default function major() {
   return (
     <div>
       <h1>Major: Computer Science</h1>
